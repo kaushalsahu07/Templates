@@ -1,7 +1,27 @@
-# Snow-music (discord bot website)
-Go Check My Instagram :- [Insta Profile](https://www.instagram.com/cd.kaushal)
-### This Website Is Mabe By Using Html, Css [Vist Website](https://snow-music.kaushalsahu.repl.co). 
-![img](img/snow-1.jpg)
+### Preview
+
+Here's a glimpse of the Snow Music website with the snow effect and interactive elements:
+
+![Snow Music Screenshot](img/snow-1.jpg)
+
+## Features
+
+- **Bot Invite Link**: Easily add Snow Music to your server with a click.
+- **Support Link**: Get help and support for the Snow Music bot.
+- **Showcase Other Bots**: Display and invite other bots with a dedicated section.
+- **Responsive Design**: The website is fully responsive and works seamlessly on both desktop and mobile devices.
+- **Elegant UI**: The website is styled beautifully with a clean, modern interface.
+
+## Technologies Used
+
+- **HTML**: For the structure of the website and the bot interface.
+- **CSS**: For styling the website and adding design elements like snow animation.
+- **JavaScript**: For any dynamic functionality (if applicable).
+
+## How to Customize
+
+Here’s how you can add new features and customize your own version of this website:
+
 1. Add invite link of bot {index.html}
 ```html
 <div class="button">
