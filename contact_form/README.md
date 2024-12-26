@@ -15,6 +15,6 @@ Note that this is a **frontend-only** implementation, meaning there is no backen
 - **HTML**: Provides the structure of the contact form.
 - **CSS**: Styles the form to create a visually appealing and responsive design
 
-##Sceenshot
+## Sceenshot
 
 ![Screenshot 2024-12-26 at 7 20 34 AM](https://github.com/user-attachments/assets/309908e6-c107-401e-911f-da19d65673d1)
