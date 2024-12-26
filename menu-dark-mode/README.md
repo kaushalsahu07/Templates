@@ -22,6 +22,7 @@ Welcome to my **Menu with Dark Mode** project! This is a simple, yet effective, 
 You can view the live demo of the project by visiting the following links:
 
 - **Portfolio**: [Portfolio](https://kaushalsahu07.github.io/portfolio/)
+- **Demo**: [Demo](https://kaushalsahu07.github.io/Templates/menu-dark-mode/index.html)
 
 ## Preview
 
