@@ -15,7 +15,7 @@ Welcome to the **Profile Cards** project! This project showcases stylish and cus
 - **HTML**: For creating the structure of the profile cards.
 - **CSS**: For styling the profile cards and applying hover effects.
 
-## Sceen Recording
+## Sceen Recording (Output)
 
 https://github.com/user-attachments/assets/a1f7f4d1-f12e-4518-b157-02d184cadd95
 
