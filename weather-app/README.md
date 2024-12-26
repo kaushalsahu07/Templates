@@ -33,7 +33,7 @@ let apiKey = "Your API Key";
     }
 ```
 
-## how it's look like?
-![output](https://github.com/kaushalsahu07/weather/assets/131914333/d97b6f52-983f-4dbe-bda7-bcd347a92bbf)
+## how it's look lik
+![Screenshot 2024-12-26 at 7 07 39 AM](https://github.com/user-attachments/assets/4b0664f1-f9ee-4e5b-9a20-d47678c229c7)
 
 > By Clicking To Location Icon You Can Search Any City
