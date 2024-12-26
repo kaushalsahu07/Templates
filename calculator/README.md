@@ -17,6 +17,12 @@ Welcome to my **Simple Calculator** project! This is a basic **calculator** buil
 - **CSS**: Styling for the layout, buttons, and overall look of the calculator.
 - **JavaScript**: Functionality to handle the calculation logic and button interactions.
 
+## Live Demo
+
+You can view the live demo of the project by visiting the following links:
+
+- **Demo**: [Demo](https://kaushalsahu07.github.io/Templates/calculator/index.html)
+
 ## Preview
 
 Here's a screenshot of the calculator in action:
