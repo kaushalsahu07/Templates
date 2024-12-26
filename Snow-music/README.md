@@ -18,6 +18,12 @@ Here's a glimpse of the Snow Music website with the snow effect and interactive 
 - **CSS**: For styling the website and adding design elements like snow animation.
 - **JavaScript**: For any dynamic functionality (if applicable).
 
+## Live Demo
+
+You can view the live demo of the project by visiting the following links:
+
+- **Demo**: [Demo](https://kaushalsahu07.github.io/Templates/Snow-music/index.html)
+
 ## How to Customize
 
 Here’s how you can add new features and customize your own version of this website:
