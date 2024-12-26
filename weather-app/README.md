@@ -32,6 +32,12 @@ let apiKey = "Your API Key";
       weather("pune"); 
     }
 ```
+## Live Demo
+
+You can view the live demo of the project by visiting the following links:
+
+- **Demo**: [Demo](https://kaushalsahu07.github.io/Templates/weather-app/index.html)
+
 
 ## how it's look lik
 ![Screenshot 2024-12-26 at 7 07 39 AM](https://github.com/user-attachments/assets/4b0664f1-f9ee-4e5b-9a20-d47678c229c7)
