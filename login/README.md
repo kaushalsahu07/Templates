@@ -13,6 +13,12 @@ This project is a simple login page built with HTML & CSS. It serves as the fron
 - **HTML**: Markup for the page structure.
 - **CSS**: Styling to make the page visually appealing.
 
+## Live Demo
+
+You can view the live demo of the project by visiting the following links:
+
+- **Demo**: [Demo](https://kaushalsahu07.github.io/Templates/login/index.html)
+
 ## Screenshot (Output)
 
 ![Screenshot 2024-12-26 at 7 12 10 AM](https://github.com/user-attachments/assets/10815c3e-5163-422a-89dd-ae8b82a9f4fd)
