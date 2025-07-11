@@ -41,7 +41,7 @@ A simple password generator that creates a secure 12-character password. Built w
 3. Click "Copy" to save the password to your clipboard.
 
 ## Output
-![Screenshot 2024-11-09 182257](https://github.com/user-attachments/assets/49afe1a7-6672-45b2-92d9-42dcd4058876)
+<img width="1604" height="919" alt="Screenshot 2025-07-11 161452" src="https://github.com/user-attachments/assets/ab0a0482-3fe5-414b-9edb-e80326342624" />
 
 [Views Website](https://passwordsgenrator.netlify.app/)
 
