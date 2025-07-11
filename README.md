@@ -10,7 +10,7 @@ All templates have been originally shared on my Instagram account, and they are 
 
 ## Contact
 
-For any inquiries, reach out at [kaushal.r.sahu@outlook.com].<br>
+For any inquiries, reach out at [kaushalsahu.me@gmail.com].<br>
 GitHub: [@kaushalsahu07](https://github.com/kaushalsahu07).<br>
 Linkedin: [@kaushalsahu07](www.linkedin.com/in/kaushalsahu07).<br>
 Instagram: [@cd.kaushal](https://www.instagram.com/cd.kaushal?igsh=cTVram1ia3Vvamxz).<br>
