@@ -43,7 +43,7 @@ A simple password generator that creates a secure 12-character password. Built w
 ## Output
 ![Screenshot 2024-11-09 182257](https://github.com/user-attachments/assets/49afe1a7-6672-45b2-92d9-42dcd4058876)
 
-[Views Website](https://kaushalsahu07.github.io/randompassword/HTML/index.html)
+[Views Website](https://passwordsgenrator.netlify.app/)
 
 ## Contact
 For any inquiries, reach out at [kaushalsahu.me@gmailcom](mailto:kaushalsahu.me@gmailcom)<br>
