@@ -7,12 +7,6 @@ A simple password generator that creates a secure 12-character password. Built w
 - Options to include uppercase, lowercase, numbers, and special characters.
 - **Copy to clipboard** functionality.
 
-## Live Demo
-
-You can view the live demo of the project by visiting the following links:
-
-- **Demo**: [Demo](https://kaushalsahu07.github.io/Templates/randompassword/HTML/index.html)
-
 ## Installation
 
 ### For HTML Version
